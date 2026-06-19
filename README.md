@@ -46,3 +46,18 @@ Author
 
 Mohammad Sohail Akhtar
 AI/ML Internship Project
+## Future Enhancements
+
+- Machine Learning Recommendation Engine
+- FastAPI Integration
+- Database Connectivity
+- Real-Time Candidate Ranking
+- Explainable AI Scoring
+
+## Internship Information
+
+Domain: AI/ML
+
+Project: Job Posting with Skill Thresholds
+
+Organization: Altrodav Technologies
